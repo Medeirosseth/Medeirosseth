@@ -1,4 +1,4 @@
-# Hey there, Im Seth :neckbeard:
+# Hey there, Im Seth ###:neckbeard:
                       
 
 ![Seth's Github Stats](https://github-readme-stats.vercel.app/api?username=Medeirosseth&show_icons=true&theme=default)
