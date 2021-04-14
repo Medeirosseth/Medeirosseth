@@ -1,4 +1,4 @@
-# Hey there, Im Seth :sparkles: :large_orange_diamond: :small_orange_diamond:
+# Hey there, Im Seth :sparkles: :collision:
                       
 
 ![Seth's Github Stats](https://github-readme-stats.vercel.app/api?username=Medeirosseth&show_icons=true&theme=default)
