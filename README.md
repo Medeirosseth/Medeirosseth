@@ -1,4 +1,4 @@
-# Hey there, Im Seth :sparkles:
+# Hi 👋, Im Seth :sparkles:
 
 ![Seth's Github Stats](https://github-readme-stats.vercel.app/api?username=Medeirosseth&show_icons=true&theme=default)
 
